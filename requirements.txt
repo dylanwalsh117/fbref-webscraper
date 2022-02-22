@@ -1,0 +1,8 @@
+beautifulsoup4
+klib
+matplotlib
+numpy
+pandas
+requests
+seaborn
+wes
